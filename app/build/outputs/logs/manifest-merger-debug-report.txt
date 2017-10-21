@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:5:22-75
+uses-feature#android.hardware.camera
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:7:5-59
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:11:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\JITENDRA\.android\build-cache\200a4a766221b6799144c44449fb8044bf3f4a4d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\JITENDRA\.android\build-cache\2c61b75b61231bc3adad0e998fefe978bda253a4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\JITENDRA\.android\build-cache\f190dffef3d8742dc4f85c0fde48dec130f1a80a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\JITENDRA\.android\build-cache\d4844885acf1d969a7f59e151ded2c568c290831\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\JITENDRA\.android\build-cache\15cbf921185860597aeb884b156753f271cf09ec\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\JITENDRA\.android\build-cache\3ddab1a079ceb4b69bcde7027bfdb30142872e84\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\JITENDRA\.android\build-cache\abe0d6cdbac62c23fad9931f4b9683ccc31cf0b8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\JITENDRA\.android\build-cache\8043f92cec883849c4fba18dc20403daf324c236\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\JITENDRA\.android\build-cache\8aa508d872aa894e4798e671c53265265060cd8b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\JITENDRA\.android\build-cache\3c343b418ff5cb354a018df289a20898cbfbfd85\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\JITENDRA\.android\build-cache\7a02c6216596422e12d490d2ed8ea72c9b2fa635\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\JITENDRA\.android\build-cache\f3b885eae158bdd92fcc449facfe7c2ff922de15\output\AndroidManifest.xml:25:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\JITENDRA\.android\build-cache\3d35ee485dd90b9228fda8552ca6760f7f46bd54\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.floatingwidget.MainActivity
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.floatingwidget.RecyclerActivity
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:25:19-51
+service#com.floatingwidget.FloatWidgetService
+ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:27:9-30:39
+	android:enabled
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml:28:13-47
+uses-sdk
+INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\JITENDRA\.android\build-cache\200a4a766221b6799144c44449fb8044bf3f4a4d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\JITENDRA\.android\build-cache\2c61b75b61231bc3adad0e998fefe978bda253a4\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\JITENDRA\.android\build-cache\f190dffef3d8742dc4f85c0fde48dec130f1a80a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\JITENDRA\.android\build-cache\d4844885acf1d969a7f59e151ded2c568c290831\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\JITENDRA\.android\build-cache\15cbf921185860597aeb884b156753f271cf09ec\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\JITENDRA\.android\build-cache\3ddab1a079ceb4b69bcde7027bfdb30142872e84\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\JITENDRA\.android\build-cache\abe0d6cdbac62c23fad9931f4b9683ccc31cf0b8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\JITENDRA\.android\build-cache\8043f92cec883849c4fba18dc20403daf324c236\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\JITENDRA\.android\build-cache\8aa508d872aa894e4798e671c53265265060cd8b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\JITENDRA\.android\build-cache\3c343b418ff5cb354a018df289a20898cbfbfd85\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\JITENDRA\.android\build-cache\39dcf97732abbfbea7745af9dd882e2035e9f2eb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\JITENDRA\.android\build-cache\7a02c6216596422e12d490d2ed8ea72c9b2fa635\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\JITENDRA\.android\build-cache\f3b885eae158bdd92fcc449facfe7c2ff922de15\output\AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\JITENDRA\.android\build-cache\3d35ee485dd90b9228fda8552ca6760f7f46bd54\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\JITENDRA\.android\build-cache\2c61b75b61231bc3adad0e998fefe978bda253a4\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2.3projects\FloatingWidget-master\app\src\main\AndroidManifest.xml

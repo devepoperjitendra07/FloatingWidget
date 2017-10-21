@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android2.3projects\\FloatingWidget-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_add.png",
+        "source": "D:\\Android2.3projects\\FloatingWidget-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\Android2.3projects\\FloatingWidget-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_green.png",
+        "source": "D:\\Android2.3projects\\FloatingWidget-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_green.png"
+    },
+    {
+        "merged": "D:\\Android2.3projects\\FloatingWidget-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_done.png",
+        "source": "D:\\Android2.3projects\\FloatingWidget-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_done.png"
+    },
+    {
+        "merged": "D:\\Android2.3projects\\FloatingWidget-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_profile.png",
+        "source": "D:\\Android2.3projects\\FloatingWidget-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_profile.png"
+    },
+    {
+        "merged": "D:\\Android2.3projects\\FloatingWidget-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_pick.png",
+        "source": "D:\\Android2.3projects\\FloatingWidget-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pick.png"
+    },
+    {
+        "merged": "D:\\Android2.3projects\\FloatingWidget-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_play.png",
+        "source": "D:\\Android2.3projects\\FloatingWidget-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play.png"
+    }
+]

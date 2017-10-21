@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/rl"
+    android:layout_height="match_parent">
+
+    <Button
+
+        android:id="@+id/camera_btn"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Open Camera"
+        android:textStyle="italic"
+        android:textColor="#FFFFFF"
+        android:textAllCaps="false"
+        android:background="@drawable/popup_design"/>
+
+    <Button
+        android:layout_marginTop="2dp"
+        android:id="@+id/gallery_btn"
+        android:textStyle="italic"
+        android:layout_below="@id/camera_btn"
+        android:layout_width="100dp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:text="Open Gallery"
+        android:background="@drawable/popup_design"/>
+</RelativeLayout>
